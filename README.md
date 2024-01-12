@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bootstrap4Resume
 
 A single-page static website with a fixed sidebar, smooth scrolling navigation, and content sections. Great for an elegant resume or portfolio. Mobile-friendly. 
@@ -30,3 +31,7 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 ## How to Use it
 
 After downloading, you can edit the HTML and CSS files to make the changes you want and personalize the template. Check your changes opening the index.html in your browser.
+=======
+# resume-for-digital-arts
+this repo is for digital arts
+>>>>>>> 559f196672ba6484841ec3dabe75b6e868dbeb45
